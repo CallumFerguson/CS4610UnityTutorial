@@ -1,5 +1,7 @@
 # CS4610UnityTutorial
 
+# Make sure to use the gitignore and gitattributes in the project for your repository!
+
 ## Useful Tutorials:
 
 ### Text tutorial:
